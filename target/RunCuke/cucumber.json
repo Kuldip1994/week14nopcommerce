@@ -1,0 +1,2567 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 11160254800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "As a user I should be able to navigate to register page successfully",
+        "description": "",
+        "id": "resgister;as-a-user-i-should-be-able-to-navigate-to-register-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 967917100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 187162800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is on nopcommerce homepage",
+            "match": {
+              "location": "LoginPageSteps.user_is_on_nopcommerce_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1282203100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user to click on register link",
+            "match": {
+              "location": "RegisterPageStep.user_to_click_on_register_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 94146200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should navigate to register page \"Register\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Register",
+                  "offset": 36
+                }
+              ],
+              "location": "RegisterPageStep.iShouldNavigateToRegisterPage(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5654123300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 27,
+        "name": "User to verify Firstname, Lastname, email, password and confirm password fields are Mandatory",
+        "description": "",
+        "id": "resgister;user-to-verify-firstname,-lastname,-email,-password-and-confirm-password-fields-are-mandatory;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 807529200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 25900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user is on nopcommerce homepage",
+            "match": {
+              "location": "LoginPageSteps.user_is_on_nopcommerce_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2106768900,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user to click on register link",
+            "match": {
+              "location": "RegisterPageStep.user_to_click_on_register_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 87826500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user to click on register button",
+            "match": {
+              "location": "RegisterPageStep.userToClickOnRegisterButton()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 71647000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user to enter firtname f \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 26
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterFirtnameF(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 101937200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user to enter lname l \"jame\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jame",
+                  "offset": 23
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterLnameL(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 88574200,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user should to select d \"1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 25
+                }
+              ],
+              "location": "RegisterPageStep.userShouldToSelectD(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 75133000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user should to select m \"June\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "June",
+                  "offset": 25
+                }
+              ],
+              "location": "RegisterPageStep.userShouldToSelectM(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 80194200,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user should to select y \"1996\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1996",
+                  "offset": 25
+                }
+              ],
+              "location": "RegisterPageStep.userShouldToSelectY(String)"
+            },
+            "matchedColumns": [
+              4
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 112704600,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user to enter e \"jane124@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jane124@gmail.com",
+                  "offset": 17
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterE(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 99342200,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user to enter p \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 17
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterP(String)"
+            },
+            "matchedColumns": [
+              6
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 99702100,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user to enter cp\"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 17
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterCp(String)"
+            },
+            "matchedColumns": [
+              7
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 49006700,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user to click on register button",
+            "match": {
+              "location": "RegisterPageStep.userToClickOnRegisterButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 41214200,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user to verify error messages \"Firstname is required.\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Firstname is required.",
+                  "offset": 31
+                }
+              ],
+              "location": "RegisterPageStep.userToVerifyErrorMessages(String)"
+            },
+            "matchedColumns": [
+              8
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5542955400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 28,
+        "name": "User to verify Firstname, Lastname, email, password and confirm password fields are Mandatory",
+        "description": "",
+        "id": "resgister;user-to-verify-firstname,-lastname,-email,-password-and-confirm-password-fields-are-mandatory;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 866305900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 37900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user is on nopcommerce homepage",
+            "match": {
+              "location": "LoginPageSteps.user_is_on_nopcommerce_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1093016500,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user to click on register link",
+            "match": {
+              "location": "RegisterPageStep.user_to_click_on_register_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 179726700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user to click on register button",
+            "match": {
+              "location": "RegisterPageStep.userToClickOnRegisterButton()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 147194500,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user to enter firtname f \"james\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "james",
+                  "offset": 26
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterFirtnameF(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 156194600,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user to enter lname l \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 23
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterLnameL(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 157459800,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user should to select d \"1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 25
+                }
+              ],
+              "location": "RegisterPageStep.userShouldToSelectD(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 164629400,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user should to select m \"June\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "June",
+                  "offset": 25
+                }
+              ],
+              "location": "RegisterPageStep.userShouldToSelectM(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 145207100,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user should to select y \"1996\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1996",
+                  "offset": 25
+                }
+              ],
+              "location": "RegisterPageStep.userShouldToSelectY(String)"
+            },
+            "matchedColumns": [
+              4
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 203314800,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user to enter e \"jane124@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jane124@gmail.com",
+                  "offset": 17
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterE(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 169388100,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user to enter p \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 17
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterP(String)"
+            },
+            "matchedColumns": [
+              6
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 158875500,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user to enter cp\"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 17
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterCp(String)"
+            },
+            "matchedColumns": [
+              7
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 81076600,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user to click on register button",
+            "match": {
+              "location": "RegisterPageStep.userToClickOnRegisterButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 59044200,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user to verify error messages \"Last name is required.\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Last name is required.",
+                  "offset": 31
+                }
+              ],
+              "location": "RegisterPageStep.userToVerifyErrorMessages(String)"
+            },
+            "matchedColumns": [
+              8
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3899609600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 29,
+        "name": "User to verify Firstname, Lastname, email, password and confirm password fields are Mandatory",
+        "description": "",
+        "id": "resgister;user-to-verify-firstname,-lastname,-email,-password-and-confirm-password-fields-are-mandatory;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 862624400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 48200,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user is on nopcommerce homepage",
+            "match": {
+              "location": "LoginPageSteps.user_is_on_nopcommerce_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 637430000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user to click on register link",
+            "match": {
+              "location": "RegisterPageStep.user_to_click_on_register_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 127977100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user to click on register button",
+            "match": {
+              "location": "RegisterPageStep.userToClickOnRegisterButton()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 130276900,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user to enter firtname f \"james\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "james",
+                  "offset": 26
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterFirtnameF(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 166821800,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user to enter lname l \"jame\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jame",
+                  "offset": 23
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterLnameL(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 126978800,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user should to select d \"1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 25
+                }
+              ],
+              "location": "RegisterPageStep.userShouldToSelectD(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 126133800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user should to select m \"June\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "June",
+                  "offset": 25
+                }
+              ],
+              "location": "RegisterPageStep.userShouldToSelectM(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 140018900,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user should to select y \"1996\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1996",
+                  "offset": 25
+                }
+              ],
+              "location": "RegisterPageStep.userShouldToSelectY(String)"
+            },
+            "matchedColumns": [
+              4
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 114879200,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user to enter e \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 17
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterE(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 168419400,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user to enter p \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 17
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterP(String)"
+            },
+            "matchedColumns": [
+              6
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 183574100,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user to enter cp\"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 17
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterCp(String)"
+            },
+            "matchedColumns": [
+              7
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 85385000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user to click on register button",
+            "match": {
+              "location": "RegisterPageStep.userToClickOnRegisterButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 54113100,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user to verify error messages \"Email is required.\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Email is required.",
+                  "offset": 31
+                }
+              ],
+              "location": "RegisterPageStep.userToVerifyErrorMessages(String)"
+            },
+            "matchedColumns": [
+              8
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3634965500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 30,
+        "name": "User to verify Firstname, Lastname, email, password and confirm password fields are Mandatory",
+        "description": "",
+        "id": "resgister;user-to-verify-firstname,-lastname,-email,-password-and-confirm-password-fields-are-mandatory;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 813971700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 70300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user is on nopcommerce homepage",
+            "match": {
+              "location": "LoginPageSteps.user_is_on_nopcommerce_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1042176700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user to click on register link",
+            "match": {
+              "location": "RegisterPageStep.user_to_click_on_register_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 141709200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user to click on register button",
+            "match": {
+              "location": "RegisterPageStep.userToClickOnRegisterButton()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 128995200,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user to enter firtname f \"james\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "james",
+                  "offset": 26
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterFirtnameF(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 148865100,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user to enter lname l \"jame\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jame",
+                  "offset": 23
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterLnameL(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 122195700,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user should to select d \"1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 25
+                }
+              ],
+              "location": "RegisterPageStep.userShouldToSelectD(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 136608800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user should to select m \"June\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "June",
+                  "offset": 25
+                }
+              ],
+              "location": "RegisterPageStep.userShouldToSelectM(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 132049200,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user should to select y \"1996\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1996",
+                  "offset": 25
+                }
+              ],
+              "location": "RegisterPageStep.userShouldToSelectY(String)"
+            },
+            "matchedColumns": [
+              4
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 210311900,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user to enter e \"jane124@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jane124@gmail.com",
+                  "offset": 17
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterE(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 129284900,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user to enter p \"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 17
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterP(String)"
+            },
+            "matchedColumns": [
+              6
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 166717600,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user to enter cp\"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 17
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterCp(String)"
+            },
+            "matchedColumns": [
+              7
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 76440200,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user to click on register button",
+            "match": {
+              "location": "RegisterPageStep.userToClickOnRegisterButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 45955900,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user to verify error messages \"Password is required.\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Password is required.",
+                  "offset": 31
+                }
+              ],
+              "location": "RegisterPageStep.userToVerifyErrorMessages(String)"
+            },
+            "matchedColumns": [
+              8
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3418033300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 31,
+        "name": "User to verify Firstname, Lastname, email, password and confirm password fields are Mandatory",
+        "description": "",
+        "id": "resgister;user-to-verify-firstname,-lastname,-email,-password-and-confirm-password-fields-are-mandatory;;6",
+        "after": [
+          {
+            "result": {
+              "duration": 835380500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 39600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user is on nopcommerce homepage",
+            "match": {
+              "location": "LoginPageSteps.user_is_on_nopcommerce_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1066843200,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user to click on register link",
+            "match": {
+              "location": "RegisterPageStep.user_to_click_on_register_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 157784700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user to click on register button",
+            "match": {
+              "location": "RegisterPageStep.userToClickOnRegisterButton()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 126124500,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user to enter firtname f \"james\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "james",
+                  "offset": 26
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterFirtnameF(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 154570900,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user to enter lname l \"jame\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jame",
+                  "offset": 23
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterLnameL(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 125693500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user should to select d \"1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 25
+                }
+              ],
+              "location": "RegisterPageStep.userShouldToSelectD(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 124735000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user should to select m \"June\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "June",
+                  "offset": 25
+                }
+              ],
+              "location": "RegisterPageStep.userShouldToSelectM(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 134226500,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user should to select y \"1996\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1996",
+                  "offset": 25
+                }
+              ],
+              "location": "RegisterPageStep.userShouldToSelectY(String)"
+            },
+            "matchedColumns": [
+              4
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 196837600,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user to enter e \"jane124@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jane124@gmail.com",
+                  "offset": 17
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterE(String)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 180499900,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user to enter p \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 17
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterP(String)"
+            },
+            "matchedColumns": [
+              6
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 119308500,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user to enter cp\"\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "",
+                  "offset": 17
+                }
+              ],
+              "location": "RegisterPageStep.userToEnterCp(String)"
+            },
+            "matchedColumns": [
+              7
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 77355400,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user to click on register button",
+            "match": {
+              "location": "RegisterPageStep.userToClickOnRegisterButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 50188700,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user to verify error messages \"Password is required.\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Password is required.",
+                  "offset": 31
+                }
+              ],
+              "location": "RegisterPageStep.userToVerifyErrorMessages(String)"
+            },
+            "matchedColumns": [
+              8
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3344988300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 33,
+        "name": "User should create account successfully",
+        "description": "",
+        "id": "resgister;user-should-create-account-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 861954600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 32200,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "user is on nopcommerce homepage",
+            "match": {
+              "location": "LoginPageSteps.user_is_on_nopcommerce_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1074621600,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "user to click on register link",
+            "match": {
+              "location": "RegisterPageStep.user_to_click_on_register_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 55583050800,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "I enter following user details",
+            "match": {
+              "location": "RegisterPageStep.i_enter_following_user_details(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "kyle",
+                  "jon",
+                  "3",
+                  "June",
+                  "1998",
+                  "kyle1234@gmail.com",
+                  "123456",
+                  "123456"
+                ],
+                "line": 39
+              },
+              {
+                "cells": [
+                  "hardik",
+                  "pandya",
+                  "11",
+                  "July",
+                  "1994",
+                  "hardik1234@gmail.com",
+                  "123456",
+                  "123456"
+                ],
+                "line": 40
+              },
+              {
+                "cells": [
+                  "shubman",
+                  "gill",
+                  "25",
+                  "August",
+                  "1988",
+                  "sgill1234@gmail.com",
+                  "123456",
+                  "123456"
+                ],
+                "line": 41
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Resgister",
+    "description": "\r\nAs a user I should be able to navigate to register page and successfully register",
+    "id": "resgister",
+    "keyword": "Feature",
+    "uri": "Register.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2793846600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "As a user I should be able navigate to computer page",
+        "description": "",
+        "id": "computer-page;as-a-user-i-should-be-able-navigate-to-computer-page",
+        "after": [
+          {
+            "result": {
+              "duration": 862953500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 40400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is on nopcommerce homepage",
+            "match": {
+              "location": "LoginPageSteps.user_is_on_nopcommerce_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 599351300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user to click on computer tab",
+            "match": {
+              "location": "ComputerPageSteps.user_to_click_on_computer_tab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 36601200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user to verify computer text \"Computers\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Computers",
+                  "offset": 30
+                }
+              ],
+              "location": "ComputerPageSteps.user_to_verify_computer_text(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4430874400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "As a user I should be able to navigate to Desktop page successfully",
+        "description": "",
+        "id": "computer-page;as-a-user-i-should-be-able-to-navigate-to-desktop-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 914000200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 33000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user is on nopcommerce homepage",
+            "match": {
+              "location": "LoginPageSteps.user_is_on_nopcommerce_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3562516200,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user to click on computer tab",
+            "match": {
+              "location": "ComputerPageSteps.user_to_click_on_computer_tab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 20624416000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user to click on Desktop link",
+            "match": {
+              "location": "ComputerPageSteps.user_to_click_on_Desktop_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 59216600,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User to verify desktop text \"Desktops\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Desktops",
+                  "offset": 29
+                }
+              ],
+              "location": "ComputerPageSteps.user_to_verify_desktop_text(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3689287900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "As a user I should be able to build my own computer",
+        "description": "",
+        "id": "computer-page;as-a-user-i-should-be-able-to-build-my-own-computer",
+        "after": [
+          {
+            "result": {
+              "duration": 839552400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 23800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user is on nopcommerce homepage",
+            "match": {
+              "location": "LoginPageSteps.user_is_on_nopcommerce_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3150088500,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user to click on computer tab",
+            "match": {
+              "location": "ComputerPageSteps.user_to_click_on_computer_tab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 20605821200,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user to click on Desktop link",
+            "match": {
+              "location": "ComputerPageSteps.user_to_click_on_Desktop_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 21529244900,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user to click on build your own computer",
+            "match": {
+              "location": "ComputerPageSteps.user_to_click_on_build_your_own_computer()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 25352797800,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I want to build my computer",
+            "match": {
+              "location": "ComputerPageSteps.iWantToBuildMyComputer(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "2.2 GHz Intel Pentium Dual-Core E2200",
+                  "2 GB",
+                  "320 GB",
+                  "Vista Home [+$50.00]",
+                  "Microsoft Office [+$50.00]"
+                ],
+                "line": 23
+              },
+              {
+                "cells": [
+                  "2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]",
+                  "4GB [+$20.00]",
+                  "400 GB [+$100.00]",
+                  "Vista Premium [+$60.00]",
+                  "Acrobat Reader [+$10.00]"
+                ],
+                "line": 24
+              },
+              {
+                "cells": [
+                  "2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]",
+                  "8GB [+$60.00]",
+                  "320 GB",
+                  "VistaHome [+$50.00]",
+                  "Total Commander [+$5.00]"
+                ],
+                "line": 25
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Computer Page",
+    "description": "\r\nAs a user I should be able to navigate to computer page successfully and build my own computer",
+    "id": "computer-page",
+    "keyword": "Feature",
+    "uri": "computerpage.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4662256800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User should be able to navigate to login page successfully",
+        "description": "",
+        "id": "login-page;user-should-be-able-to-navigate-to-login-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 895208600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 23500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user is on nopcommerce homepage",
+            "match": {
+              "location": "LoginPageSteps.user_is_on_nopcommerce_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2037799300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user to click on login page",
+            "match": {
+              "location": "LoginPageSteps.userToClickOnLoginPage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 86762000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I should navigate to log in page and see welcome text \"Welcome, Please Sign In!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Welcome, Please Sign In!",
+                  "offset": 55
+                }
+              ],
+              "location": "LoginPageSteps.i_should_navigate_to_log_in_page_and_see_welcome_text(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3347265100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 21,
+        "name": "User should receive error message when login with invalid credentials",
+        "description": "",
+        "id": "login-page;user-should-receive-error-message-when-login-with-invalid-credentials;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 959439800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 22000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user is on nopcommerce homepage",
+            "match": {
+              "location": "LoginPageSteps.user_is_on_nopcommerce_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 602087000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user to click on login page",
+            "match": {
+              "location": "LoginPageSteps.userToClickOnLoginPage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 165677300,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user to enter invalid email address on email address field \"jonny123@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jonny123@gmail.com",
+                  "offset": 60
+                }
+              ],
+              "location": "LoginPageSteps.userToEnterInvalidEmailAddressOnEmailAddressField(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 123303900,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user to enter invalid password on password field \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 50
+                }
+              ],
+              "location": "LoginPageSteps.userToEnterInvalidPasswordOnPasswordField(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 498373600,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User to click on login button",
+            "match": {
+              "location": "LoginPageSteps.userToClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 20027048700,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User to see error message \"Login was unsuccessful. Please correct the errors and try again. No customer account found\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Login was unsuccessful. Please correct the errors and try again. No customer account found",
+                  "offset": 27
+                }
+              ],
+              "location": "LoginPageSteps.userToSeeErrorMessage(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5206896500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 22,
+        "name": "User should receive error message when login with invalid credentials",
+        "description": "",
+        "id": "login-page;user-should-receive-error-message-when-login-with-invalid-credentials;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 928982000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 32100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user is on nopcommerce homepage",
+            "match": {
+              "location": "LoginPageSteps.user_is_on_nopcommerce_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 581593900,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user to click on login page",
+            "match": {
+              "location": "LoginPageSteps.userToClickOnLoginPage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 151287900,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user to enter invalid email address on email address field \"jonny12113@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jonny12113@gmail.com",
+                  "offset": 60
+                }
+              ],
+              "location": "LoginPageSteps.userToEnterInvalidEmailAddressOnEmailAddressField(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 118315900,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user to enter invalid password on password field \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 50
+                }
+              ],
+              "location": "LoginPageSteps.userToEnterInvalidPasswordOnPasswordField(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 451110700,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User to click on login button",
+            "match": {
+              "location": "LoginPageSteps.userToClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 20014853100,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User to see error message \"Login was unsuccessful. Please correct the errors and try again. No customer account found\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Login was unsuccessful. Please correct the errors and try again. No customer account found",
+                  "offset": 27
+                }
+              ],
+              "location": "LoginPageSteps.userToSeeErrorMessage(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4827423000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "User should receive error message when login with invalid credentials",
+        "description": "",
+        "id": "login-page;user-should-receive-error-message-when-login-with-invalid-credentials;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 789748000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 35200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user is on nopcommerce homepage",
+            "match": {
+              "location": "LoginPageSteps.user_is_on_nopcommerce_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1782068000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user to click on login page",
+            "match": {
+              "location": "LoginPageSteps.userToClickOnLoginPage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 80836400,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user to enter invalid email address on email address field \"jonny123456@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jonny123456@gmail.com",
+                  "offset": 60
+                }
+              ],
+              "location": "LoginPageSteps.userToEnterInvalidEmailAddressOnEmailAddressField(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 73485500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user to enter invalid password on password field \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 50
+                }
+              ],
+              "location": "LoginPageSteps.userToEnterInvalidPasswordOnPasswordField(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 451386300,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User to click on login button",
+            "match": {
+              "location": "LoginPageSteps.userToClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 20048020600,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User to see error message \"Login was unsuccessful. Please correct the errors and try again. No customer account found\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Login was unsuccessful. Please correct the errors and try again. No customer account found",
+                  "offset": 27
+                }
+              ],
+              "location": "LoginPageSteps.userToSeeErrorMessage(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4388314900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 25,
+        "name": "user should be able to log in with valid credentials",
+        "description": "",
+        "id": "login-page;user-should-be-able-to-log-in-with-valid-credentials",
+        "after": [
+          {
+            "result": {
+              "duration": 759338800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 37700,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "user is on nopcommerce homepage",
+            "match": {
+              "location": "LoginPageSteps.user_is_on_nopcommerce_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2337795000,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user to click on login page",
+            "match": {
+              "location": "LoginPageSteps.userToClickOnLoginPage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 107194100,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "user to enter emaill address on email address field \"simran12@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "simran12@gmail.com",
+                  "offset": 53
+                }
+              ],
+              "location": "LoginPageSteps.userToEnterEmaillAddressOnEmailAddressField(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 76030900,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "user to enter password on password field \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 42
+                }
+              ],
+              "location": "LoginPageSteps.userToEnterPasswordOnPasswordField(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 577262200,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "User to click on login button",
+            "match": {
+              "location": "LoginPageSteps.userToClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 54564200,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "user to verify logout link display \"Log out\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Log out",
+                  "offset": 36
+                }
+              ],
+              "location": "LoginPageSteps.user_to_verify_logout_link_display(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2974930700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 33,
+        "name": "user should be able to log out successfully",
+        "description": "",
+        "id": "login-page;user-should-be-able-to-log-out-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 945429000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 262000,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "user is on nopcommerce homepage",
+            "match": {
+              "location": "LoginPageSteps.user_is_on_nopcommerce_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 471155600,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "user to click on login page",
+            "match": {
+              "location": "LoginPageSteps.userToClickOnLoginPage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 97667300,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "user to enter emaill address on email address field \"simran12@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "simran12@gmail.com",
+                  "offset": 53
+                }
+              ],
+              "location": "LoginPageSteps.userToEnterEmaillAddressOnEmailAddressField(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 71469800,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "user to enter password on password field \"123456\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "123456",
+                  "offset": 42
+                }
+              ],
+              "location": "LoginPageSteps.userToEnterPasswordOnPasswordField(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 587032800,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "User to click on login button",
+            "match": {
+              "location": "LoginPageSteps.userToClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 20630357700,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "user to click on logout link",
+            "match": {
+              "location": "LoginPageSteps.userToClickOnLogoutLink()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 69117100,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "user to verify to log in display \"Log in\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Log in",
+                  "offset": 34
+                }
+              ],
+              "location": "LoginPageSteps.userToVerifyToLogInDisplay(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login Page",
+    "description": "\r\nAs a user I want to login into nop commerce website",
+    "id": "login-page",
+    "keyword": "Feature",
+    "uri": "loginpage.feature"
+  }
+]

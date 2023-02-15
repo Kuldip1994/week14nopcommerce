@@ -1,0 +1,239 @@
+2023-02-13 18:02:548 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (9411ba95db3ad96c681f98d23f7a6c66)] -> link text: Register]
+2023-02-13 18:02:852 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (8a5f5603825f976c2950c9a7035a5e28)] -> link text: Register]
+2023-02-13 18:02:329 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (8a5f5603825f976c2950c9a7035a5e28)] -> link text: Register]
+2023-02-13 18:02:739 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (8a5f5603825f976c2950c9a7035a5e28)] -> link text: Register]
+2023-02-13 18:02:387 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (8a5f5603825f976c2950c9a7035a5e28)] -> link text: Register]
+2023-02-13 21:02:115 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (57bf9128300cd271a1a11775739a7cbc)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-13 21:02:153 INFO  HomePage :42 - getting text from[[ChromeDriver: chrome on WINDOWS (57bf9128300cd271a1a11775739a7cbc)] -> xpath: //div[@class='center-2']//h1[contains(text(),'Computers')]]
+2023-02-13 21:02:435 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (8073251c8b005eb2cec7b097a6a4d965)] -> link text: Log in]
+2023-02-13 21:02:468 INFO  LoginPage :45 - getting text from : [[ChromeDriver: chrome on WINDOWS (8073251c8b005eb2cec7b097a6a4d965)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-02-13 21:02:956 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (581eb9c9ddfa7ef01036b6045314813b)] -> link text: Log in]
+2023-02-13 21:02:841 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (ab2cb82d064a593023fc9a81b0e8d64e)] -> link text: Log in]
+2023-02-13 21:02:670 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (1c3e14ab5a62089dd267729cc3357f3c)] -> link text: Log in]
+2023-02-13 21:02:747 INFO  LoginPage :45 - getting text from : [[ChromeDriver: chrome on WINDOWS (1c3e14ab5a62089dd267729cc3357f3c)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-02-13 21:02:54 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (e8cc3ca01fb298ea144591943213a54f)] -> link text: Log in]
+2023-02-13 21:02:12 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (6af71c7aa0ff5d0099f78f4c7a0d7c93)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-13 21:02:552 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (cd76be919f199c8e3f08e22eca974d63)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-13 21:02:01 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (5a537ece605476e6ea57ca5c0af5a00d)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-13 21:02:964 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-13 21:02:09 INFO  HomePage :28 - Getting text from [[ChromeDriver: chrome on WINDOWS (5a537ece605476e6ea57ca5c0af5a00d)] -> xpath: //div[@class='page category-page']//h1[contains(text(),'Desktops')]]
+2023-02-13 21:02:543 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (bdf430628d3a0644cfc8eb1a29b4b9cd)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-13 21:02:241 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-13 21:02:271 INFO  HomePage :28 - Getting text from [[ChromeDriver: chrome on WINDOWS (bdf430628d3a0644cfc8eb1a29b4b9cd)] -> xpath: //h1[contains(text(),'Desktops')]]
+2023-02-13 21:02:787 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (62d7d4a7c795161d5ec3522d89eaf457)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-13 21:02:440 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-13 21:02:475 INFO  HomePage :28 - Getting text from [[ChromeDriver: chrome on WINDOWS (62d7d4a7c795161d5ec3522d89eaf457)] -> xpath: //h1[contains(text(),'Desktops')]]
+2023-02-13 21:02:399 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (8a4c92b042097882c43b006e84216d1d)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-13 21:02:105 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-13 21:02:154 INFO  HomePage :28 - Getting text from [[ChromeDriver: chrome on WINDOWS (8a4c92b042097882c43b006e84216d1d)] -> xpath: //h1[contains(text(),'Desktops')]]
+2023-02-13 22:02:759 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (c8c4eab8818d2ce0f91c7f69cae7b343)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-13 22:02:511 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (3f89e4e2f8d36a1167e1fa98c57d5f3b)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-13 22:02:588 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (36418c5fd68b59f54d7cf3902b3c7442)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-13 22:02:198 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-13 22:02:497 INFO  HomePage :52 - Click on build your computer linkProxy element for: DefaultElementLocator 'By.xpath: //div[@class='products-container']/div[2]/div/div/div[1]/div/div[2]/h2/a'
+2023-02-13 22:02:360 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (baae5f1a1ebc0206f630ba3b9b826b21)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-13 22:02:111 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-13 22:02:419 INFO  HomePage :52 - Click on build your computer linkProxy element for: DefaultElementLocator 'By.xpath: //div[@class='products-container']/div[2]/div/div/div[1]/div/div[2]/h2/a'
+2023-02-13 22:02:635 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (b73c69af91cffe9b9f282259872d08d6)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-13 22:02:430 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-13 22:02:856 INFO  HomePage :52 - Click on build your computer linkProxy element for: DefaultElementLocator 'By.xpath: //div[@class='products-container']/div[2]/div/div/div[1]/div/div[2]/h2/a'
+2023-02-13 22:02:985 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (cbc5c514a9da33fefb35526f3a42264c)] -> link text: Log in]
+2023-02-13 22:02:457 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (a53df24def68d410cce810471e039802)] -> link text: Log in]
+2023-02-13 22:02:153 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (3857b85fc04da5393d6c16bdde94a729)] -> link text: Log in]
+2023-02-13 22:02:262 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (a38f758379fba06b9397bee213fd973b)] -> link text: Register]
+2023-02-13 22:02:366 INFO  HomePage :134 - Click on register button
+2023-02-13 22:02:425 INFO  HomePage :94 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (a38f758379fba06b9397bee213fd973b)] -> id: FirstName]
+2023-02-13 22:02:524 INFO  HomePage :99 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (a38f758379fba06b9397bee213fd973b)] -> id: LastName]
+2023-02-13 22:02:631 INFO  HomePage :104 - select your day of birth[[ChromeDriver: chrome on WINDOWS (a38f758379fba06b9397bee213fd973b)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-13 22:02:766 INFO  HomePage :109 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (a38f758379fba06b9397bee213fd973b)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-13 22:02:897 INFO  HomePage :114 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (a38f758379fba06b9397bee213fd973b)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-13 22:02:80 INFO  HomePage :119 - Enter your email[[ChromeDriver: chrome on WINDOWS (a38f758379fba06b9397bee213fd973b)] -> id: Email]
+2023-02-13 22:02:257 INFO  HomePage :124 - Enter your password[[ChromeDriver: chrome on WINDOWS (a38f758379fba06b9397bee213fd973b)] -> name: Password]
+2023-02-13 22:02:426 INFO  HomePage :129 - Confirm your password[[ChromeDriver: chrome on WINDOWS (a38f758379fba06b9397bee213fd973b)] -> name: ConfirmPassword]
+2023-02-13 22:02:506 INFO  HomePage :134 - Click on register button
+2023-02-13 22:02:535 INFO  HomePage :138 - Getting error from [[ChromeDriver: chrome on WINDOWS (a38f758379fba06b9397bee213fd973b)] -> xpath: //span[contains(text(),'First name is required.')]]
+2023-02-13 22:02:617 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (08d08de8062cedfad42db2bd1472e2b7)] -> link text: Register]
+2023-02-13 22:02:781 INFO  HomePage :134 - Click on register button
+2023-02-13 22:02:920 INFO  HomePage :94 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (08d08de8062cedfad42db2bd1472e2b7)] -> id: FirstName]
+2023-02-13 22:02:76 INFO  HomePage :99 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (08d08de8062cedfad42db2bd1472e2b7)] -> id: LastName]
+2023-02-13 22:02:228 INFO  HomePage :104 - select your day of birth[[ChromeDriver: chrome on WINDOWS (08d08de8062cedfad42db2bd1472e2b7)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-13 22:02:371 INFO  HomePage :109 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (08d08de8062cedfad42db2bd1472e2b7)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-13 22:02:503 INFO  HomePage :114 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (08d08de8062cedfad42db2bd1472e2b7)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-13 22:02:711 INFO  HomePage :119 - Enter your email[[ChromeDriver: chrome on WINDOWS (08d08de8062cedfad42db2bd1472e2b7)] -> id: Email]
+2023-02-13 22:02:891 INFO  HomePage :124 - Enter your password[[ChromeDriver: chrome on WINDOWS (08d08de8062cedfad42db2bd1472e2b7)] -> name: Password]
+2023-02-13 22:02:66 INFO  HomePage :129 - Confirm your password[[ChromeDriver: chrome on WINDOWS (08d08de8062cedfad42db2bd1472e2b7)] -> name: ConfirmPassword]
+2023-02-13 22:02:153 INFO  HomePage :134 - Click on register button
+2023-02-13 22:02:228 INFO  HomePage :138 - Getting error from Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'First name is required.')]'
+2023-02-13 22:02:149 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (9d071fcf3827c7ceda009a2407d3582c)] -> link text: Register]
+2023-02-13 22:02:313 INFO  HomePage :134 - Click on register button
+2023-02-13 22:02:460 INFO  HomePage :94 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (9d071fcf3827c7ceda009a2407d3582c)] -> id: FirstName]
+2023-02-13 22:02:642 INFO  HomePage :99 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (9d071fcf3827c7ceda009a2407d3582c)] -> id: LastName]
+2023-02-13 22:02:779 INFO  HomePage :104 - select your day of birth[[ChromeDriver: chrome on WINDOWS (9d071fcf3827c7ceda009a2407d3582c)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-13 22:02:948 INFO  HomePage :109 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (9d071fcf3827c7ceda009a2407d3582c)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-13 22:02:82 INFO  HomePage :114 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (9d071fcf3827c7ceda009a2407d3582c)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-13 22:02:193 INFO  HomePage :119 - Enter your email[[ChromeDriver: chrome on WINDOWS (9d071fcf3827c7ceda009a2407d3582c)] -> id: Email]
+2023-02-13 22:02:492 INFO  HomePage :124 - Enter your password[[ChromeDriver: chrome on WINDOWS (9d071fcf3827c7ceda009a2407d3582c)] -> name: Password]
+2023-02-13 22:02:785 INFO  HomePage :129 - Confirm your password[[ChromeDriver: chrome on WINDOWS (9d071fcf3827c7ceda009a2407d3582c)] -> name: ConfirmPassword]
+2023-02-13 22:02:883 INFO  HomePage :134 - Click on register button
+2023-02-13 22:02:932 INFO  HomePage :138 - Getting error from Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'First name is required.')]'
+2023-02-13 22:02:400 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (5028b2709bd9eafecf699dac61ed01d0)] -> link text: Register]
+2023-02-13 22:02:571 INFO  HomePage :134 - Click on register button
+2023-02-13 22:02:703 INFO  HomePage :94 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (5028b2709bd9eafecf699dac61ed01d0)] -> id: FirstName]
+2023-02-13 22:02:880 INFO  HomePage :99 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (5028b2709bd9eafecf699dac61ed01d0)] -> id: LastName]
+2023-02-13 22:02:14 INFO  HomePage :104 - select your day of birth[[ChromeDriver: chrome on WINDOWS (5028b2709bd9eafecf699dac61ed01d0)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-13 22:02:143 INFO  HomePage :109 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (5028b2709bd9eafecf699dac61ed01d0)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-13 22:02:293 INFO  HomePage :114 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (5028b2709bd9eafecf699dac61ed01d0)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-13 22:02:528 INFO  HomePage :119 - Enter your email[[ChromeDriver: chrome on WINDOWS (5028b2709bd9eafecf699dac61ed01d0)] -> id: Email]
+2023-02-13 22:02:672 INFO  HomePage :124 - Enter your password[[ChromeDriver: chrome on WINDOWS (5028b2709bd9eafecf699dac61ed01d0)] -> name: Password]
+2023-02-13 22:02:876 INFO  HomePage :129 - Confirm your password[[ChromeDriver: chrome on WINDOWS (5028b2709bd9eafecf699dac61ed01d0)] -> name: ConfirmPassword]
+2023-02-13 22:02:244 INFO  HomePage :134 - Click on register button
+2023-02-13 22:02:333 INFO  HomePage :138 - Getting error from Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'First name is required.')]'
+2023-02-13 22:02:896 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (33fc728c4ff811a0f4fce77f2b5f891e)] -> link text: Register]
+2023-02-13 22:02:986 INFO  HomePage :134 - Click on register button
+2023-02-13 22:02:61 INFO  HomePage :94 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (33fc728c4ff811a0f4fce77f2b5f891e)] -> id: FirstName]
+2023-02-13 22:02:166 INFO  HomePage :99 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (33fc728c4ff811a0f4fce77f2b5f891e)] -> id: LastName]
+2023-02-13 22:02:240 INFO  HomePage :104 - select your day of birth[[ChromeDriver: chrome on WINDOWS (33fc728c4ff811a0f4fce77f2b5f891e)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-13 22:02:309 INFO  HomePage :109 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (33fc728c4ff811a0f4fce77f2b5f891e)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-13 22:02:380 INFO  HomePage :114 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (33fc728c4ff811a0f4fce77f2b5f891e)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-13 22:02:484 INFO  HomePage :119 - Enter your email[[ChromeDriver: chrome on WINDOWS (33fc728c4ff811a0f4fce77f2b5f891e)] -> id: Email]
+2023-02-13 22:02:582 INFO  HomePage :124 - Enter your password[[ChromeDriver: chrome on WINDOWS (33fc728c4ff811a0f4fce77f2b5f891e)] -> name: Password]
+2023-02-13 22:02:695 INFO  HomePage :129 - Confirm your password[[ChromeDriver: chrome on WINDOWS (33fc728c4ff811a0f4fce77f2b5f891e)] -> name: ConfirmPassword]
+2023-02-13 22:02:773 INFO  HomePage :134 - Click on register button
+2023-02-13 22:02:808 INFO  HomePage :138 - Getting error from Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'First name is required.')]'
+2023-02-13 23:02:643 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (ce270752a08aa02e27eceeb169e7a697)] -> link text: Register]
+2023-02-13 23:02:798 INFO  HomePage :134 - Click on register button
+2023-02-13 23:02:918 INFO  HomePage :94 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (ce270752a08aa02e27eceeb169e7a697)] -> id: FirstName]
+2023-02-13 23:02:96 INFO  HomePage :99 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (ce270752a08aa02e27eceeb169e7a697)] -> id: LastName]
+2023-02-13 23:02:243 INFO  HomePage :104 - select your day of birth[[ChromeDriver: chrome on WINDOWS (ce270752a08aa02e27eceeb169e7a697)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-13 23:02:384 INFO  HomePage :109 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (ce270752a08aa02e27eceeb169e7a697)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-13 23:02:519 INFO  HomePage :114 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (ce270752a08aa02e27eceeb169e7a697)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-13 23:02:733 INFO  HomePage :119 - Enter your email[[ChromeDriver: chrome on WINDOWS (ce270752a08aa02e27eceeb169e7a697)] -> id: Email]
+2023-02-13 23:02:899 INFO  HomePage :124 - Enter your password[[ChromeDriver: chrome on WINDOWS (ce270752a08aa02e27eceeb169e7a697)] -> name: Password]
+2023-02-13 23:02:84 INFO  HomePage :129 - Confirm your password[[ChromeDriver: chrome on WINDOWS (ce270752a08aa02e27eceeb169e7a697)] -> name: ConfirmPassword]
+2023-02-13 23:02:179 INFO  HomePage :134 - Click on register button
+2023-02-13 23:02:213 INFO  HomePage :138 - Getting error from [[ChromeDriver: chrome on WINDOWS (ce270752a08aa02e27eceeb169e7a697)] -> xpath: //span[contains(text(),'First name is required.')]]
+2023-02-13 23:02:309 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (85338917e2d5bad86cdb98176570d4ac)] -> link text: Register]
+2023-02-13 23:02:469 INFO  HomePage :134 - Click on register button
+2023-02-13 23:02:642 INFO  HomePage :94 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (85338917e2d5bad86cdb98176570d4ac)] -> id: FirstName]
+2023-02-13 23:02:880 INFO  HomePage :99 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (85338917e2d5bad86cdb98176570d4ac)] -> id: LastName]
+2023-02-13 23:02:82 INFO  HomePage :104 - select your day of birth[[ChromeDriver: chrome on WINDOWS (85338917e2d5bad86cdb98176570d4ac)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-13 23:02:338 INFO  HomePage :109 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (85338917e2d5bad86cdb98176570d4ac)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-13 23:02:545 INFO  HomePage :114 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (85338917e2d5bad86cdb98176570d4ac)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-13 23:02:848 INFO  HomePage :119 - Enter your email[[ChromeDriver: chrome on WINDOWS (85338917e2d5bad86cdb98176570d4ac)] -> id: Email]
+2023-02-13 23:02:63 INFO  HomePage :124 - Enter your password[[ChromeDriver: chrome on WINDOWS (85338917e2d5bad86cdb98176570d4ac)] -> name: Password]
+2023-02-13 23:02:249 INFO  HomePage :129 - Confirm your password[[ChromeDriver: chrome on WINDOWS (85338917e2d5bad86cdb98176570d4ac)] -> name: ConfirmPassword]
+2023-02-13 23:02:334 INFO  HomePage :134 - Click on register button
+2023-02-13 23:02:379 INFO  HomePage :138 - Getting error from Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'First name is required.')]'
+2023-02-13 23:02:572 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (f3c3f4930471b6a78118f48e55d97d3c)] -> link text: Register]
+2023-02-13 23:02:723 INFO  HomePage :134 - Click on register button
+2023-02-13 23:02:846 INFO  HomePage :94 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (f3c3f4930471b6a78118f48e55d97d3c)] -> id: FirstName]
+2023-02-13 23:02:00 INFO  HomePage :99 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (f3c3f4930471b6a78118f48e55d97d3c)] -> id: LastName]
+2023-02-13 23:02:126 INFO  HomePage :104 - select your day of birth[[ChromeDriver: chrome on WINDOWS (f3c3f4930471b6a78118f48e55d97d3c)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-13 23:02:244 INFO  HomePage :109 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (f3c3f4930471b6a78118f48e55d97d3c)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-13 23:02:369 INFO  HomePage :114 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (f3c3f4930471b6a78118f48e55d97d3c)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-13 23:02:494 INFO  HomePage :119 - Enter your email[[ChromeDriver: chrome on WINDOWS (f3c3f4930471b6a78118f48e55d97d3c)] -> id: Email]
+2023-02-13 23:02:663 INFO  HomePage :124 - Enter your password[[ChromeDriver: chrome on WINDOWS (f3c3f4930471b6a78118f48e55d97d3c)] -> name: Password]
+2023-02-13 23:02:834 INFO  HomePage :129 - Confirm your password[[ChromeDriver: chrome on WINDOWS (f3c3f4930471b6a78118f48e55d97d3c)] -> name: ConfirmPassword]
+2023-02-13 23:02:919 INFO  HomePage :134 - Click on register button
+2023-02-13 23:02:824 INFO  HomePage :138 - Getting error from Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'First name is required.')]'
+2023-02-13 23:02:529 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (26ab31221b70350de55b9d0402195297)] -> link text: Register]
+2023-02-13 23:02:703 INFO  HomePage :134 - Click on register button
+2023-02-13 23:02:844 INFO  HomePage :94 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (26ab31221b70350de55b9d0402195297)] -> id: FirstName]
+2023-02-13 23:02:89 INFO  HomePage :99 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (26ab31221b70350de55b9d0402195297)] -> id: LastName]
+2023-02-13 23:02:252 INFO  HomePage :104 - select your day of birth[[ChromeDriver: chrome on WINDOWS (26ab31221b70350de55b9d0402195297)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-13 23:02:379 INFO  HomePage :109 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (26ab31221b70350de55b9d0402195297)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-13 23:02:513 INFO  HomePage :114 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (26ab31221b70350de55b9d0402195297)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-13 23:02:723 INFO  HomePage :119 - Enter your email[[ChromeDriver: chrome on WINDOWS (26ab31221b70350de55b9d0402195297)] -> id: Email]
+2023-02-13 23:02:865 INFO  HomePage :124 - Enter your password[[ChromeDriver: chrome on WINDOWS (26ab31221b70350de55b9d0402195297)] -> name: Password]
+2023-02-13 23:02:20 INFO  HomePage :129 - Confirm your password[[ChromeDriver: chrome on WINDOWS (26ab31221b70350de55b9d0402195297)] -> name: ConfirmPassword]
+2023-02-13 23:02:101 INFO  HomePage :134 - Click on register button
+2023-02-13 23:02:131 INFO  HomePage :138 - Getting error from Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'First name is required.')]'
+2023-02-13 23:02:695 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (ef52e7967c22dea72aacbc8e16a2d8c0)] -> link text: Register]
+2023-02-13 23:02:922 INFO  HomePage :134 - Click on register button
+2023-02-13 23:02:41 INFO  HomePage :94 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (ef52e7967c22dea72aacbc8e16a2d8c0)] -> id: FirstName]
+2023-02-13 23:02:521 INFO  HomePage :99 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (ef52e7967c22dea72aacbc8e16a2d8c0)] -> id: LastName]
+2023-02-13 23:02:903 INFO  HomePage :104 - select your day of birth[[ChromeDriver: chrome on WINDOWS (ef52e7967c22dea72aacbc8e16a2d8c0)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-13 23:02:163 INFO  HomePage :109 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (ef52e7967c22dea72aacbc8e16a2d8c0)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-13 23:02:530 INFO  HomePage :114 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (ef52e7967c22dea72aacbc8e16a2d8c0)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-13 23:02:958 INFO  HomePage :119 - Enter your email[[ChromeDriver: chrome on WINDOWS (ef52e7967c22dea72aacbc8e16a2d8c0)] -> id: Email]
+2023-02-13 23:02:332 INFO  HomePage :124 - Enter your password[[ChromeDriver: chrome on WINDOWS (ef52e7967c22dea72aacbc8e16a2d8c0)] -> name: Password]
+2023-02-13 23:02:547 INFO  HomePage :129 - Confirm your password[[ChromeDriver: chrome on WINDOWS (ef52e7967c22dea72aacbc8e16a2d8c0)] -> name: ConfirmPassword]
+2023-02-13 23:02:761 INFO  HomePage :134 - Click on register button
+2023-02-13 23:02:779 INFO  HomePage :138 - Getting error from Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'First name is required.')]'
+2023-02-13 23:02:314 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (e0ff0e8f0527420caa4692d4a1c01172)] -> link text: Register]
+2023-02-13 23:02:536 INFO  HomePage :137 - Click on register button
+2023-02-13 23:02:671 INFO  HomePage :97 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (e0ff0e8f0527420caa4692d4a1c01172)] -> id: FirstName]
+2023-02-13 23:02:884 INFO  HomePage :102 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (e0ff0e8f0527420caa4692d4a1c01172)] -> id: LastName]
+2023-02-13 23:02:69 INFO  HomePage :107 - select your day of birth[[ChromeDriver: chrome on WINDOWS (e0ff0e8f0527420caa4692d4a1c01172)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-13 23:02:250 INFO  HomePage :112 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (e0ff0e8f0527420caa4692d4a1c01172)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-13 23:02:393 INFO  HomePage :117 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (e0ff0e8f0527420caa4692d4a1c01172)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-13 23:02:608 INFO  HomePage :122 - Enter your email[[ChromeDriver: chrome on WINDOWS (e0ff0e8f0527420caa4692d4a1c01172)] -> id: Email]
+2023-02-13 23:02:785 INFO  HomePage :127 - Enter your password[[ChromeDriver: chrome on WINDOWS (e0ff0e8f0527420caa4692d4a1c01172)] -> name: Password]
+2023-02-13 23:02:959 INFO  HomePage :132 - Confirm your password[[ChromeDriver: chrome on WINDOWS (e0ff0e8f0527420caa4692d4a1c01172)] -> name: ConfirmPassword]
+2023-02-13 23:02:43 INFO  HomePage :137 - Click on register button
+2023-02-13 23:02:755 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (da8819fb4a1cc58c61610e4740856039)] -> link text: Register]
+2023-02-13 23:02:921 INFO  HomePage :137 - Click on register button
+2023-02-13 23:02:17 INFO  HomePage :97 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (da8819fb4a1cc58c61610e4740856039)] -> id: FirstName]
+2023-02-13 23:02:95 INFO  HomePage :102 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (da8819fb4a1cc58c61610e4740856039)] -> id: LastName]
+2023-02-13 23:02:170 INFO  HomePage :107 - select your day of birth[[ChromeDriver: chrome on WINDOWS (da8819fb4a1cc58c61610e4740856039)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-13 23:02:240 INFO  HomePage :112 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (da8819fb4a1cc58c61610e4740856039)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-13 23:02:315 INFO  HomePage :117 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (da8819fb4a1cc58c61610e4740856039)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-13 23:02:423 INFO  HomePage :122 - Enter your email[[ChromeDriver: chrome on WINDOWS (da8819fb4a1cc58c61610e4740856039)] -> id: Email]
+2023-02-13 23:02:555 INFO  HomePage :127 - Enter your password[[ChromeDriver: chrome on WINDOWS (da8819fb4a1cc58c61610e4740856039)] -> name: Password]
+2023-02-13 23:02:687 INFO  HomePage :132 - Confirm your password[[ChromeDriver: chrome on WINDOWS (da8819fb4a1cc58c61610e4740856039)] -> name: ConfirmPassword]
+2023-02-13 23:02:729 INFO  HomePage :137 - Click on register button
+2023-02-13 23:02:362 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (98557d4629707402a58a5d207b16477d)] -> link text: Register]
+2023-02-13 23:02:503 INFO  HomePage :137 - Click on register button
+2023-02-13 23:02:631 INFO  HomePage :97 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (98557d4629707402a58a5d207b16477d)] -> id: FirstName]
+2023-02-13 23:02:787 INFO  HomePage :102 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (98557d4629707402a58a5d207b16477d)] -> id: LastName]
+2023-02-13 23:02:914 INFO  HomePage :107 - select your day of birth[[ChromeDriver: chrome on WINDOWS (98557d4629707402a58a5d207b16477d)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-13 23:02:55 INFO  HomePage :112 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (98557d4629707402a58a5d207b16477d)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-13 23:02:180 INFO  HomePage :117 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (98557d4629707402a58a5d207b16477d)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-13 23:02:300 INFO  HomePage :122 - Enter your email[[ChromeDriver: chrome on WINDOWS (98557d4629707402a58a5d207b16477d)] -> id: Email]
+2023-02-13 23:02:509 INFO  HomePage :127 - Enter your password[[ChromeDriver: chrome on WINDOWS (98557d4629707402a58a5d207b16477d)] -> name: Password]
+2023-02-13 23:02:686 INFO  HomePage :132 - Confirm your password[[ChromeDriver: chrome on WINDOWS (98557d4629707402a58a5d207b16477d)] -> name: ConfirmPassword]
+2023-02-13 23:02:771 INFO  HomePage :137 - Click on register button
+2023-02-13 23:02:466 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (e3fc80d08af4e45cb2e54dec3975873e)] -> link text: Register]
+2023-02-13 23:02:619 INFO  HomePage :137 - Click on register button
+2023-02-13 23:02:762 INFO  HomePage :97 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (e3fc80d08af4e45cb2e54dec3975873e)] -> id: FirstName]
+2023-02-13 23:02:937 INFO  HomePage :102 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (e3fc80d08af4e45cb2e54dec3975873e)] -> id: LastName]
+2023-02-13 23:02:85 INFO  HomePage :107 - select your day of birth[[ChromeDriver: chrome on WINDOWS (e3fc80d08af4e45cb2e54dec3975873e)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-13 23:02:213 INFO  HomePage :112 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (e3fc80d08af4e45cb2e54dec3975873e)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-13 23:02:344 INFO  HomePage :117 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (e3fc80d08af4e45cb2e54dec3975873e)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-13 23:02:542 INFO  HomePage :122 - Enter your email[[ChromeDriver: chrome on WINDOWS (e3fc80d08af4e45cb2e54dec3975873e)] -> id: Email]
+2023-02-13 23:02:671 INFO  HomePage :127 - Enter your password[[ChromeDriver: chrome on WINDOWS (e3fc80d08af4e45cb2e54dec3975873e)] -> name: Password]
+2023-02-13 23:02:835 INFO  HomePage :132 - Confirm your password[[ChromeDriver: chrome on WINDOWS (e3fc80d08af4e45cb2e54dec3975873e)] -> name: ConfirmPassword]
+2023-02-13 23:02:916 INFO  HomePage :137 - Click on register button
+2023-02-13 23:02:227 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (0943bb819331c59c002ab0691af66bb4)] -> link text: Register]
+2023-02-13 23:02:355 INFO  HomePage :137 - Click on register button
+2023-02-13 23:02:474 INFO  HomePage :97 - Enter your firstname[[ChromeDriver: chrome on WINDOWS (0943bb819331c59c002ab0691af66bb4)] -> id: FirstName]
+2023-02-13 23:02:621 INFO  HomePage :102 - Enter your lastname[[ChromeDriver: chrome on WINDOWS (0943bb819331c59c002ab0691af66bb4)] -> id: LastName]
+2023-02-13 23:02:742 INFO  HomePage :107 - select your day of birth[[ChromeDriver: chrome on WINDOWS (0943bb819331c59c002ab0691af66bb4)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthDay']]
+2023-02-13 23:02:861 INFO  HomePage :112 - Select the month which you was born[[ChromeDriver: chrome on WINDOWS (0943bb819331c59c002ab0691af66bb4)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthMonth']]
+2023-02-13 23:02:992 INFO  HomePage :117 - Select the year you was born in[[ChromeDriver: chrome on WINDOWS (0943bb819331c59c002ab0691af66bb4)] -> xpath: //div[@class='inputs date-of-birth']//select[@name='DateOfBirthYear']]
+2023-02-13 23:02:201 INFO  HomePage :122 - Enter your email[[ChromeDriver: chrome on WINDOWS (0943bb819331c59c002ab0691af66bb4)] -> id: Email]
+2023-02-13 23:02:389 INFO  HomePage :127 - Enter your password[[ChromeDriver: chrome on WINDOWS (0943bb819331c59c002ab0691af66bb4)] -> name: Password]
+2023-02-13 23:02:522 INFO  HomePage :132 - Confirm your password[[ChromeDriver: chrome on WINDOWS (0943bb819331c59c002ab0691af66bb4)] -> name: ConfirmPassword]
+2023-02-13 23:02:619 INFO  HomePage :137 - Click on register button
+2023-02-13 23:02:611 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (bd77e250598e7f38714abd528828ab16)] -> link text: Log in]
+2023-02-13 23:02:297 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (d18da9ba40ad10abc268bd3588be1271)] -> link text: Log in]
+2023-02-13 23:02:128 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (3188b38e9371494a3f6ba7547227a091)] -> link text: Log in]
+2023-02-13 23:02:989 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (9fef99c9b39b2e266d2b29bbbb79ccd7)] -> link text: Log in]
+2023-02-13 23:02:696 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (462b0245846dd81ea758049dbffbaa0c)] -> link text: Log in]
+2023-02-13 23:02:530 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (3d076d5b0c10f21725cb1789f1366b01)] -> link text: Log in]
+2023-02-13 23:02:366 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (aa77504aeade872efe1c06adbc57d10d)] -> link text: Log in]
+2023-02-13 23:02:433 INFO  LoginPage :46 - getting text from : [[ChromeDriver: chrome on WINDOWS (aa77504aeade872efe1c06adbc57d10d)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-02-13 23:02:771 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (7da4938befcb405d827e75b11ad16a82)] -> link text: Log in]
+2023-02-13 23:02:859 INFO  LoginPage :46 - getting text from : [[ChromeDriver: chrome on WINDOWS (7da4938befcb405d827e75b11ad16a82)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-02-13 23:02:65 INFO  HomePage :38 - Click on computer tab[[ChromeDriver: chrome on WINDOWS (eb34afe3a2fb5ab42c423e5d275130b9)] -> xpath: //ul[@class='top-menu notmobile']/li//a[@href='/computers']]
+2023-02-13 23:02:843 INFO  HomePage :48 - Click on desktop linkProxy element for: DefaultElementLocator 'By.xpath: //h2[@class='title']//a[@href='/desktops']'
+2023-02-13 23:02:877 INFO  HomePage :28 - Getting text from [[ChromeDriver: chrome on WINDOWS (eb34afe3a2fb5ab42c423e5d275130b9)] -> xpath: //h1[contains(text(),'Desktops')]]
+2023-02-13 23:02:938 INFO  HomePage :79 - click on register link :[[ChromeDriver: chrome on WINDOWS (37bb3879c056b63673a8a07548c9c6f3)] -> link text: Register]
+2023-02-13 23:02:994 INFO  HomePage :80 - Click on build your computer link[[ChromeDriver: chrome on WINDOWS (37bb3879c056b63673a8a07548c9c6f3)] -> xpath: //h1[contains(text(),'Register')]]
+2023-02-13 23:02:43 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (1a92d1b1cfa7c0b3289652f9eb47e07a)] -> link text: Log in]
+2023-02-13 23:02:898 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (a51ac14b2dfcef4c577bd423bf98b2e6)] -> link text: Log in]
+2023-02-13 23:02:942 INFO  HomePage :89 - Click on logoout linkProxy element for: DefaultElementLocator 'By.xpath: //a[@href='/logout']'
+2023-02-13 23:02:978 INFO  HomePage :147 - getting text from [[ChromeDriver: chrome on WINDOWS (a51ac14b2dfcef4c577bd423bf98b2e6)] -> xpath: //a[contains(text(),'Log in')]]
+2023-02-14 00:02:16 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (2be98332c0f6f355da61a55cffdd51e7)] -> link text: Log in]
+2023-02-14 00:02:764 INFO  HomePage :74 - clicking on login link : [[ChromeDriver: chrome on WINDOWS (9a7a1f39abaaa8bfbf74f8be35c385c3)] -> link text: Log in]
+2023-02-14 00:02:252 INFO  HomePage :142 - getting text from : [[ChromeDriver: chrome on WINDOWS (9a7a1f39abaaa8bfbf74f8be35c385c3)] -> xpath: //a[contains(text(),'Log out')]]
